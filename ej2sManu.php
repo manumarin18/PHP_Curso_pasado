@@ -1,5 +1,5 @@
 <HTML>
-<HEAD><TITLE> EJ1-Conversion IP Decimal a Binario - Manuel Marín </TITLE></HEAD> 
+<HEAD><TITLE> EJ2-Conversion IP Decimal a Binario - Manuel Marín </TITLE></HEAD> 
 <BODY> 
 
 <?php
